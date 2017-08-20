@@ -22,5 +22,4 @@ public class main {
 	public void printProduct() {
 		System.out.printf("Product %s, price %4.1f and balance %d pcs", name,price,amount);
 	}
-	
 }
